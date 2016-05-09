@@ -15,12 +15,12 @@ module.exports = {
       one: {
         host: '104.236.71.197',
         username: 'root',
-        port: 5678
       },
     },
     env: {
       ROOT_URL: 'http://dentonrevival.learn-everything.io:5678',
-      MONGO_URL: 'mongodb://localhost/meteor'
+      MONGO_URL: 'mongodb://localhost/meteor',
+      PORT: 5678
     },
   },
 };
