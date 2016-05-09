@@ -31,3 +31,5 @@ twbs:bootstrap
 ian:accounts-ui-bootstrap-3
 mfactory:admin-lte
 fortawesome:fontawesome
+session
+mpowaga:autoform-summernote
