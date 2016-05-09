@@ -22,5 +22,13 @@ module.exports = {
       MONGO_URL: 'mongodb://localhost/meteor',
       PORT: 5678
     },
+    //deployCheckWaitTime: 60 //default 10
+  },
+  mongo: {
+    oplog: true,
+    port: 27017,
+    servers: {
+      one: {},
+    },
   },
 };
