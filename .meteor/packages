@@ -27,3 +27,6 @@ aldeed:collection2
 todda00:friendly-slugs
 accounts-base
 accounts-password
+twbs:bootstrap
+ian:accounts-ui-bootstrap-3
+mfactory:admin-lte

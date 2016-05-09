@@ -19,7 +19,7 @@ module.exports = {
       },
     },
     env: {
-      ROOT_URL: 'http://104.236.71.197',
+      ROOT_URL: 'http://dentonrevival.learn-everything.io:5678',
       MONGO_URL: 'mongodb://localhost/meteor'
     },
   },
